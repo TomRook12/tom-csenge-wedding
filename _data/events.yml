@@ -34,14 +34,14 @@
   endDate: 2025-07-06 04:00:00
   attire: Formal
   description: The main event! Join us from 16:00 for a welcome drink, snacks and taking a seat for the Ceremony which starts at 16:30. 
-  state: Hu
-  long_state: Hungary
   transportation:
   shuttle:
   location:
     address: Hármashatárhegyi út 3
     city: Budapest
     zip: 1037
+    state: Hu
+    long_state: Hungary
     coordinates: 47.5564858660336, 18.997592
     google_maps_url: https://www.google.com/maps/place/Event'sHill/@47.5564777,18.9949987,17z/data=!3m1!4b1!4m6!3m5!1s0x4741d96825248dd7:0xaba6a9c8e99b4f39!8m2!3d47.5564777!4d18.9975736!16s%2Fg%2F11lgyr1vvf?entry=ttu&g_ep=EgoyMDI1MDYyMy4yIKXMDSoASAFQAw%3D%3D
     venue_name: Event'sHill
