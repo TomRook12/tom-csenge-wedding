@@ -3,7 +3,7 @@
   date_alt: Dinner for guests to meet each other
   time: 6pm
   attire: Casual
-  description: Join us for an outside dinner and drinks at the Guest House by the venue, open to all even those that aren't staying with us.
+  description: Join us for an outside dinner and drinks at the Guest House just next to the venue, open to all even those that aren't staying with us. 
   transportation:
   location:
     address: Hármashatárhegyi út 3
@@ -18,7 +18,7 @@
   date_alt: The morning of the ceremony
   time: 8am
   attire: Casual
-  description: On the morning of the wedding guests staying in the Tourist House have a few options, you can choose to head into budapest after breakfast and see some sites, stay on the hill or help us with setting out the venue.
+  description: After breakfast guests staying in the Tourist House have a few options, you can choose to head into budapest after and see some sites, stay on the hill and relax, there are great walking trails, a kids playground and a fantastic view point for all of Budapest, or help the Groomsmen decorate and get ready setting up the venue.
   location:
     address: Hármashatárhegyi út 3
     city: Budapest
@@ -34,6 +34,8 @@
   endDate: 2025-07-06 04:00:00
   attire: Formal
   description: The main event! Ceremony is from 16:30, we would reccomend arriving at 4. 
+  state: Hu
+  long_state: Hungary
   transportation:
   shuttle:
   location:
