@@ -1,48 +1,60 @@
-- name: Dinner Budapest
-  date: Thursday, May 26, 2016
-  time: 7pm
+- name: Friday Dinner
+  date: Friday, July 4, 2025
+  date_alt: Dinner for guests to meet each other
+  time: 6pm
   attire: Casual
-  description: We have decided to not have a gender-specific wedding shower, but instead have an inclusive pre-wedding party for all guests and family members to celebrate our upcoming nuptials. Join us for our brunch shower to help us get our wedding season started! Parking will be plentiful at the restaurant. If you are interested in bringing a gift, our registries are linked on the site!
+  description: Join us for an outside dinner and drinks at the Guest House by the venue, open to all even those that aren't staying with us.
   transportation:
   location:
-    address: 640 Pansy Hill Rd
-    city: Harriman
-    state: TN
-    long_state: Tennessee
-    zip: 37748
-    coordinates: 41.911652,-87.641253
-    google_maps_url: https://www.google.com/maps/place/St+Michael+in+Old+Town/@41.912635,-87.6408956,15z/data=!4m2!3m1!1s0x0:0xe227f2c7eb743c04
-    venue_name:
+    address: Hármashatárhegyi út 3
+    city: Budapest
+    zip: 1037
+    coordinates: 47.5573667, 18.9974467
+    google_maps_url: https://www.google.com/maps/place/Rotter+Lajos+Turistah%C3%A0z/@47.556246,18.9952776,17z/data=!4m17!1m7!3m6!1s0x4741d96825248dd7:0xaba6a9c8e99b4f39!2sEvent'sHill!8m2!3d47.5564777!4d18.9975736!16s%2Fg%2F11lgyr1vvf!3m8!1s0x4741d8e3ac61312b:0xff16439362f1b2cb!5m2!4m1!1i2!8m2!3d47.5573502!4d18.9975307!16s%2Fg%2F11x7vjv57?entry=ttu&g_ep=EgoyMDI1MDYyMy4yIKXMDSoASAFQAw%3D%3D
+    venue_name: Rotter Lajos Turistahàz
+
+- name: Saturday Morning
+  date: Saturday 5th July, 2025
+  date_alt: The morning of the ceremony
+  time: 8am
+  attire: Casual
+  description: On the morning of the wedding guests staying in the Tourist House have a few options, you can choose to head into budapest after breakfast and see some sites, stay on the hill or help us with setting out the venue.
+  location:
+    address: Hármashatárhegyi út 3
+    city: Budapest
+    zip: 1037
+    coordinates: 47.5573667, 18.9974467
+    google_maps_url: https://www.google.com/maps/place/Rotter+Lajos+Turistah%C3%A0z/@47.556246,18.9952776,17z/data=!4m17!1m7!3m6!1s0x4741d96825248dd7:0xaba6a9c8e99b4f39!2sEvent'sHill!8m2!3d47.5564777!4d18.9975736!16s%2Fg%2F11lgyr1vvf!3m8!1s0x4741d8e3ac61312b:0xff16439362f1b2cb!5m2!4m1!1i2!8m2!3d47.5573502!4d18.9975307!16s%2Fg%2F11x7vjv57?entry=ttu&g_ep=EgoyMDI1MDYyMy4yIKXMDSoASAFQAw%3D%3D
+    venue_name: Rotter Lajos Turistahàz
+
 
 - name: Wedding Ceremony
   main_event: true
-  date: 2021-04-03 17:00:00 −04:00
-  endDate: 2021-04-03 21:00:00 -04:00
-  attire: snappy casual
-  description: Our wedding ceremony will be the perfect blend of our separate Catholic and Baptist traditions. Please arrive at least 10 minutes prior to the start of the ceremony in order to find your seat. There will be a parking attendant on site to direct you, and the venue will also provide transportation to the ceremony site if needed. We ask that you please ensure that your cell phones are off and out of sight for the duration of the ceremony.
+  date: Saturday 5th July, 2025
+  time: 4pm
+  endDate: Sunday 6th July, 2025
+  attire: Formal
+  description: The main event! Ceremony is from 16:30, we would reccomend arriving at 4. 
   transportation:
   shuttle:
   location:
-    address: 640 Pansy Hill Rd
-    city: Harriman
-    state: TN
-    long_state: Tennessee
-    zip: 37748
-    coordinates: 41.911652,-87.641253
-    google_maps_url: https://www.google.com/maps/place/St+Michael+in+Old+Town/@41.912635,-87.6408956,15z/data=!4m2!3m1!1s0x0:0xe227f2c7eb743c04
-    venue_name:
-  calendar_description: We can't wait to see you on the day of the wedding. For any questions or issues, contact Nathan Orick.
+    address: Hármashatárhegyi út 3
+    city: Budapest
+    zip: 1037
+    coordinates: 47.5564858660336, 18.997592
+    google_maps_url: https://www.google.com/maps/place/Event'sHill/@47.5564777,18.9949987,17z/data=!3m1!4b1!4m6!3m5!1s0x4741d96825248dd7:0xaba6a9c8e99b4f39!8m2!3d47.5564777!4d18.9975736!16s%2Fg%2F11lgyr1vvf?entry=ttu&g_ep=EgoyMDI1MDYyMy4yIKXMDSoASAFQAw%3D%3D
+    venue_name: Event'sHill
+ 
 
-- name: Saturday Morning
-  date_alt: Immediately following the ceremony
-  attire: snappy casual
-  description: The wedding reception is at the same venue as the ceremony and will commence directly after the ceremony ends. Venue staff will direct you to the reception space. Dinner will be provided and make sure to bring your dancing shoes!
+
+- name: Sunday Morning
+  date_alt: Morning after the ceremony
+  attire: casual
+  description: The morning after the ceremony we will be having a wedding brunch at the tourist house at 10am, for those staying with us check out will be at 1pm.
   location:
-    address: 640 Pansy Hill Rd
-    city: Harriman
-    state: TN
-    long_state: Tennessee
-    zip: 37748
-    coordinates: 41.911652,-87.641253
-    google_maps_url: https://www.google.com/maps/place/St+Michael+in+Old+Town/@41.912635,-87.6408956,15z/data=!4m2!3m1!1s0x0:0xe227f2c7eb743c04
-    venue_name:
+    address: Hármashatárhegyi út 3
+    city: Budapest
+    zip: 1037
+    coordinates: 47.5573667, 18.9974467
+    google_maps_url: https://www.google.com/maps/place/Rotter+Lajos+Turistah%C3%A0z/@47.556246,18.9952776,17z/data=!4m17!1m7!3m6!1s0x4741d96825248dd7:0xaba6a9c8e99b4f39!2sEvent'sHill!8m2!3d47.5564777!4d18.9975736!16s%2Fg%2F11lgyr1vvf!3m8!1s0x4741d8e3ac61312b:0xff16439362f1b2cb!5m2!4m1!1i2!8m2!3d47.5573502!4d18.9975307!16s%2Fg%2F11x7vjv57?entry=ttu&g_ep=EgoyMDI1MDYyMy4yIKXMDSoASAFQAw%3D%3D
+    venue_name: Rotter Lajos Turistahàz
