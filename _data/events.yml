@@ -1,5 +1,5 @@
 - name: Friday Dinner
-  date: 2025-07-05 18:00:00
+  date: 2025-07-04 18:00:00
   date_alt: Dinner for guests to meet each other
   time: 6pm
   attire: Casual
@@ -14,7 +14,7 @@
     venue_name: Rotter Lajos Turistahàz
 
 - name: Saturday Morning
-  date: Saturday 5th July, 2025
+  date: 2025-07-05 08:00:00
   date_alt: The morning of the ceremony
   time: 8am
   attire: Casual
@@ -30,7 +30,8 @@
 
 - name: Wedding Ceremony
   main_event: true
-  date: Saturday 5th July, 2025
+  date: 2025-07-05 16:00:00
+  endDate: 2025-07-06 04:00:00
   time: 4pm
   endDate: Sunday 6th July, 2025
   attire: Formal
@@ -48,7 +49,7 @@
 
 
 - name: Sunday Morning
-  date_alt: Morning after the ceremony
+  date: 2025-07-05 10:00:00
   attire: casual
   description: The morning after the ceremony we will be having a wedding brunch at the tourist house at 10am, for those staying with us check out will be at 1pm.
   location:
